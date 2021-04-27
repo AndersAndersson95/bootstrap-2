@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: black;
+    height: 120px;
+}
+
+.nav-logo {
+    height: 100px;
+    position: fixed;
+    left: 40px;
+    top: 28px;
+    background-color: pink;
+}
+
+.nav-bar {
+    position: absolute;
+    right: 40px;
+    top: 30px;
+    width: 500px;
+}
+
